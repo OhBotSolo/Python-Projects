@@ -1,1 +1,3 @@
+Bot's Python-Projects
 
+Don't download random shit unless you've read the ReadME for the file. Glhf in this mess...
